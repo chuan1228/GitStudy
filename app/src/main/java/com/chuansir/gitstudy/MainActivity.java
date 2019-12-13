@@ -16,22 +16,22 @@ public class MainActivity extends AppCompatActivity {
 
 
     /**
-     * feature-1
+     * feature-2
      * display HelloWorld
      *
      */
-    public void feature1() {
+    public void feature2() {
 
         Log.e(MainActivity.class.getSimpleName(),"HelloWorld!");
     }
 
 
     /**
-     * feature-2
+     * feature-4
      * display HelloWorld
      *
      */
-    public void feature2() {
+    public void feature4() {
 
         Log.e(MainActivity.class.getSimpleName(),"HelloWorld!");
     }
