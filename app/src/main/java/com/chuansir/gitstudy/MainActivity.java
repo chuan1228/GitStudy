@@ -36,4 +36,15 @@ public class MainActivity extends AppCompatActivity {
         Log.e(MainActivity.class.getSimpleName(),"HelloWorld!");
     }
 
+
+    /**
+     * feature-5
+     * display HelloWorld
+     *
+     */
+    public void feature5() {
+
+        Log.e(MainActivity.class.getSimpleName(),"HelloWorld!");
+    }
+
 }
